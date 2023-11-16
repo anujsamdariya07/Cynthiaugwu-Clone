@@ -1,0 +1,4 @@
+Smooth Scrolling:-
+    --> Attach loco scroll css
+    --> Attach loco scroll min js
+    --> Some code from loco github for js
